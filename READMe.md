@@ -13,7 +13,7 @@
 | [8-bit ALU](https://github.com/gianniszaf04/ALU-8bit-systemverilog) | Πολυκύκλωτη ALU 8-bit με έλεγχο FSM και testbenches | SystemVerilog |
 | [Ανιχνευτής Ακολουθιών](https://github.com/gianniszaf04/sequence-detector-fsm) | Ανιχνευτής για τις ακολουθίες 11001 και 10010 | MATLAB |
 | [Προσομοίωση Πυροσβεστικής Υπηρεσίας](https://github.com/gianniszaf04/fire-service-simulation) | Προσομοίωση δασικών πυρκαγιών με χρήση πρακτόρων | NetLogo |
-| [Οδηγός Σκιάθου](https://gianniszaf04.github.io/skiathos-site/) | Στατική ιστοσελίδα ταξιδιωτικού οδηγού | HTML, CSS |
+| [Οδηγός Σκιάθου](https://gianniszaf04.github.io/skiathos-site) | Στατική ιστοσελίδα ταξιδιωτικού οδηγού | HTML, CSS |
 
 ## Τεχνολογίες
 
